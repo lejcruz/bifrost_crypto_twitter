@@ -1,0 +1,10 @@
+# Virtual
+venv/
+
+# API security
+apiproperties_.py
+
+# notebooks
+notebooks/
+
+bifrost_crypto_twitter/__pycache__/

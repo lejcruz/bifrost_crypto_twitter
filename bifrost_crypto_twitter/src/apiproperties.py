@@ -1,0 +1,12 @@
+# twitter
+
+BEARER_TOKEN = ''
+
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+
+TWITTER_ACESS_TOKEN = ''
+TWITTER_ACESS_SECRET = ''
+
+# coinmarket cap
+COINMARKETCAP_API_KEY = ''
