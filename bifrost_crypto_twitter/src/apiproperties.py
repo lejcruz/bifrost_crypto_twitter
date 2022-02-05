@@ -1,4 +1,4 @@
-# twitter
+# twitter keys
 
 BEARER_TOKEN = ''
 
@@ -8,5 +8,5 @@ CONSUMER_SECRET = ''
 TWITTER_ACESS_TOKEN = ''
 TWITTER_ACESS_SECRET = ''
 
-# coinmarket cap
+# coinmarketcap keys
 COINMARKETCAP_API_KEY = ''
